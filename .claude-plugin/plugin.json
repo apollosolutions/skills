@@ -1,0 +1,13 @@
+{
+  "name": "apollo-solutions-skills",
+  "description": "Agent skills for AI coding agents maintained by the Apollo Solutions and Field teams",
+  "version": "1.0.0",
+  "author": {
+    "name": "Apollo Solutions",
+    "email": "solutions@apollographql.com"
+  },
+  "homepage": "https://www.apollographql.com",
+  "repository": "https://github.com/apollosolutions/skills",
+  "license": "MIT",
+  "keywords": ["graphql", "apollo", "solutions", "field-engineering", "experimental"]
+}
