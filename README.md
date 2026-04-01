@@ -52,6 +52,27 @@ npx skills add apollosolutions/skills@skill-creator
 [SKILL.md](skills/skill-creator/SKILL.md) ·
 [Apollo Skills](skills/skill-creator/references/apollo-skills.md)
 
+### solutions-bot
+
+First-pass answers to customer questions about Apollo products using public documentation and [GraphOS MCP Tools](https://www.apollographql.com/docs/graphos/platform/graphos-mcp-tools). Does not use internal data sources.
+
+**Install:**
+
+```bash
+npx skills add apollosolutions/skills@solutions-bot
+```
+
+**Use when:**
+
+- A customer asks about Apollo Router, Server, Client, GraphOS, Federation, Connectors, Rover, or MCP Server
+- Triaging a support-style question from Slack, Jira, or similar channels
+- Researching Apollo capabilities or configuration from official docs only
+
+**References:**
+[SKILL.md](skills/solutions-bot/SKILL.md) ·
+[Product landscape](skills/solutions-bot/references/apollo-product-landscape.md) ·
+[Question patterns](skills/solutions-bot/references/question-patterns.md)
+
 ---
 
 ## Usage
@@ -76,6 +97,7 @@ Have a skill idea for the Solutions or Field teams? See [CONTRIBUTING.md](CONTRI
 - [Apollo Connectors Documentation](https://www.apollographql.com/docs/graphos/schema-design/connectors/)
 - [Apollo Federation Documentation](https://www.apollographql.com/docs/graphos/schema-design/federated-schemas/)
 - [Apollo MCP Server](https://www.apollographql.com/docs/apollo-mcp-server/)
+- [GraphOS MCP Tools](https://www.apollographql.com/docs/graphos/platform/graphos-mcp-tools)
 - [Rover CLI Documentation](https://www.apollographql.com/docs/rover/)
 - [Official Apollo Skills Repository](https://github.com/apollographql/skills)
 
