@@ -1,0 +1,17 @@
+{
+  "name": "apollosolutions-marketplace",
+  "owner": {
+    "name": "Apollo Solutions",
+    "email": "solutions@apollographql.com"
+  },
+  "metadata": {
+    "description": "Bundled plugins for the Apollo Solutions and Field teams",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "apollo-solutions-skills",
+      "source": "./"
+    }
+  ]
+}

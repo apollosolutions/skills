@@ -1,0 +1,13 @@
+{
+  "name": "apollo-solutions-skills",
+  "version": "1.0.0",
+  "description": "A collection of skills for AI coding agents for the Apollo Solutions and Field teams",
+  "private": true,
+  "scripts": {
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "devDependencies": {
+    "prettier": "3.8.1"
+  }
+}
