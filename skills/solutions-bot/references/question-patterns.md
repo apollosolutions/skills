@@ -4,11 +4,11 @@ Use this file with [apollo-product-landscape.md](apollo-product-landscape.md). A
 
 ## Tools by step
 
-| Step | Prefer (MCP available) | If MCP unavailable |
-| --- | --- | --- |
-| Broad topic | `ApolloDocsSearch` | WebFetch a section index or landscape doc URL from the product map |
-| Deep page / reference | `ApolloDocsRead` | WebFetch the specific doc URL |
-| Connectors authoring | `ApolloDocsSearch` + `ApolloConnectorsSpec` | WebFetch Connectors docs + spec pages linked from docs |
+| Step                  | Prefer (MCP available)                      | If MCP unavailable                                                 |
+| --------------------- | ------------------------------------------- | ------------------------------------------------------------------ |
+| Broad topic           | `ApolloDocsSearch`                          | WebFetch a section index or landscape doc URL from the product map |
+| Deep page / reference | `ApolloDocsRead`                            | WebFetch the specific doc URL                                      |
+| Connectors authoring  | `ApolloDocsSearch` + `ApolloConnectorsSpec` | WebFetch Connectors docs + spec pages linked from docs             |
 
 ## Categories
 

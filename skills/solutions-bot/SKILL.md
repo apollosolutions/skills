@@ -115,14 +115,14 @@ Adjust URLs to match the actual path returned by search or fetch (paths can chan
 
 Ask targeted questions when the request is vague:
 
-| Gap | Example prompts |
-| --- | --- |
-| Product | Are you using Apollo Router or Apollo Server? GraphOS Cloud Routing or self-hosted Router? |
-| Version | Which version of [product] are you running? |
-| Client platform | Which Apollo Client: Web/React, iOS, or Kotlin? |
-| Graph shape | Is this a federated supergraph or a single monolith schema? |
-| Federation | Federation 1 or Federation 2? |
-| Environment | Managed hosting (e.g. GraphOS routing products) vs self-hosted Kubernetes/Docker? |
+| Gap             | Example prompts                                                                            |
+| --------------- | ------------------------------------------------------------------------------------------ |
+| Product         | Are you using Apollo Router or Apollo Server? GraphOS Cloud Routing or self-hosted Router? |
+| Version         | Which version of [product] are you running?                                                |
+| Client platform | Which Apollo Client: Web/React, iOS, or Kotlin?                                            |
+| Graph shape     | Is this a federated supergraph or a single monolith schema?                                |
+| Federation      | Federation 1 or Federation 2?                                                              |
+| Environment     | Managed hosting (e.g. GraphOS routing products) vs self-hosted Kubernetes/Docker?          |
 
 Do not stall indefinitely: if one clarification unblocks research, proceed and note assumptions.
 
